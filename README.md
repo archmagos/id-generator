@@ -1,4 +1,4 @@
-# idGenerator
+# IdGenerator
 
 A Ruby gem for generating secure 8-character IDs based on IP addresses and context, with daily ID support and color assignment for poster IDs. For forums and discussion platforms where you want temporary user identification without storing personal data.
 
