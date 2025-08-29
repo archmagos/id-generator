@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    idGenerator (0.1.0)
+    id-generator (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -27,7 +27,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  idGenerator!
+  id-generator!
   rake (~> 13.0)
   rspec (~> 3.0)
 

@@ -3,7 +3,7 @@
 require_relative 'lib/id_generator'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'idGenerator'
+  spec.name          = 'id-generator'
   spec.version       = IdGenerator::VERSION
   spec.authors       = ['Fred']
   spec.email         = ['archmagosgit@outlook.com']
